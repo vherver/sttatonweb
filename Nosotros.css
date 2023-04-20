@@ -1,13 +1,14 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 764px;
+  min-height: 533px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
-  margin: 22px 0 60px;
+  margin-top: 22px;
+  margin-bottom: 60px;
 }
 
 .u-section-1 .u-image-1 {
-  min-height: 400px;
+  min-height: 424px;
   background-image: url("images/businesspeopleshakinghandstogether_5387620488.jpg");
   background-position: 50% 50%;
 }
@@ -17,7 +18,7 @@
 }
 
 .u-section-1 .u-layout-cell-2 {
-  min-height: 608px;
+  min-height: 424px;
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -29,6 +30,7 @@
 }
 
 .u-section-1 .u-text-2 {
+  font-size: 1.125rem;
   margin: 20px 0 0;
 }
 
@@ -39,16 +41,14 @@
 
   .u-section-1 .u-layout-wrap-1 {
     position: relative;
-    margin-right: initial;
-    margin-left: initial;
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 330px;
+    min-height: 350px;
   }
 
   .u-section-1 .u-layout-cell-2 {
-    min-height: 501px;
+    min-height: 350px;
   }
 
   .u-section-1 .u-text-1 {
@@ -62,7 +62,7 @@
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 253px;
+    min-height: 268px;
   }
 
   .u-section-1 .u-layout-cell-2 {
@@ -76,7 +76,7 @@
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 380px;
+    min-height: 402px;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -96,6 +96,6 @@
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 239px;
+    min-height: 253px;
   }
 }
