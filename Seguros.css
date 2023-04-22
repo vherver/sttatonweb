@@ -31,6 +31,7 @@
 }
 
 .u-section-2 .u-text-1 {
+  font-family: "Bebas Neue";
   margin: 60px auto 0;
 }.u-section-3 .u-sheet-1 {
   min-height: 553px;
@@ -56,24 +57,26 @@
 
 .u-section-3 .u-text-1 {
   font-size: 2.25rem;
-  margin: 50px auto 0 88px;
+  font-family: "Bebas Neue";
+  margin: 50px auto 0 142px;
+}
+
+.u-section-3 .u-text-2 {
+  margin: -29px 83px 0 455px;
 }
 
 .u-section-3 .u-image-1 {
   width: 372px;
   height: 329px;
-  margin: 9px auto 0 42px;
-}
-
-.u-section-3 .u-text-2 {
-  margin: -367px 83px 0 455px;
+  margin: -102px auto 0 42px;
 }
 
 .u-section-3 .u-text-3 {
   font-size: 1.5rem;
   text-transform: none;
   letter-spacing: normal;
-  margin: 25px 414px 0 auto;
+  font-family: "Bebas Neue";
+  margin: -202px 414px 0 auto;
 }
 
 .u-section-3 .u-text-4 {
@@ -86,6 +89,7 @@
 
 .u-section-3 .u-text-5 {
   font-size: 2.25rem;
+  font-family: "Bebas Neue";
   margin: 50px auto 0 88px;
 }
 
@@ -103,6 +107,7 @@
   font-size: 1.5rem;
   text-transform: none;
   letter-spacing: normal;
+  font-family: "Bebas Neue";
   margin: 20px auto 0 455px;
 }
 
@@ -116,23 +121,25 @@
 
 .u-section-3 .u-text-9 {
   font-size: 2.25rem;
+  font-family: "Bebas Neue";
   margin: 50px auto 0 114px;
 }
 
 .u-section-3 .u-text-10 {
-  margin: 10px 82px 0 455px;
+  margin: 9px 83px 0 454px;
 }
 
 .u-section-3 .u-image-3 {
   width: 353px;
   height: 264px;
-  margin: -141px auto 0 42px;
+  margin: -140px auto 0 42px;
 }
 
 .u-section-3 .u-text-11 {
   font-size: 1.5rem;
   text-transform: none;
   letter-spacing: normal;
+  font-family: "Bebas Neue";
   margin: -118px auto 0 455px;
 }
 
@@ -146,7 +153,8 @@
 
 .u-section-3 .u-text-13 {
   font-size: 2.25rem;
-  margin: 52px auto 0 20px;
+  font-family: "Bebas Neue";
+  margin: 52px auto 0 70px;
 }
 
 .u-section-3 .u-image-4 {
@@ -163,6 +171,7 @@
   font-size: 1.5rem;
   text-transform: none;
   letter-spacing: normal;
+  font-family: "Bebas Neue";
   margin: 20px auto 0 455px;
 }
 
@@ -176,7 +185,7 @@
 
 .u-section-3 .u-text-17 {
   font-size: 2.25rem;
-  margin: 51px auto 0 122px;
+  margin: 51px auto 0 135px;
 }
 
 .u-section-3 .u-text-18 {
@@ -186,14 +195,15 @@
 .u-section-3 .u-image-5 {
   width: 351px;
   height: 310px;
-  margin: -102px auto 0 42px;
+  margin: -74px auto 0 44px;
 }
 
 .u-section-3 .u-text-19 {
   font-size: 1.5rem;
   text-transform: none;
   letter-spacing: normal;
-  margin: -188px auto 0 455px;
+  font-family: "Bebas Neue";
+  margin: -216px auto 0 455px;
 }
 
 .u-section-3 .u-text-20 {
@@ -206,24 +216,26 @@
 
 .u-section-3 .u-text-21 {
   font-size: 2.25rem;
-  margin: 49px auto 0 75px;
+  font-family: "Bebas Neue";
+  margin: 51px auto 0 130px;
 }
 
 .u-section-3 .u-text-22 {
-  margin: -28px 82px 0 455px;
+  margin: -30px 82px 0 455px;
 }
 
 .u-section-3 .u-image-6 {
   width: 364px;
   height: 304px;
-  margin: -46px auto 0 42px;
+  margin: -18px auto 0 42px;
 }
 
 .u-section-3 .u-text-23 {
   font-size: 1.5rem;
   text-transform: none;
   letter-spacing: normal;
-  margin: -238px auto 0 455px;
+  font-family: "Bebas Neue";
+  margin: -266px auto 0 455px;
 }
 
 .u-section-3 .u-text-24 {
@@ -236,11 +248,12 @@
 
 .u-section-3 .u-text-25 {
   font-size: 2.25rem;
-  margin: 52px auto 0 36px;
+  font-family: "Bebas Neue";
+  margin: 45px auto 0 79px;
 }
 
 .u-section-3 .u-text-26 {
-  margin: -31px 82px 0 455px;
+  margin: -24px 82px 0 455px;
 }
 
 .u-section-3 .u-image-7 {
@@ -253,6 +266,7 @@
   font-size: 1.5rem;
   text-transform: none;
   letter-spacing: normal;
+  font-family: "Bebas Neue";
   margin: -208px auto 0 455px;
 }
 
@@ -289,7 +303,7 @@
   }
 
   .u-section-3 .u-text-3 {
-    margin-right: 301px;
+    margin-right: 341px;
   }
 
   .u-section-3 .u-text-4 {
@@ -398,7 +412,7 @@
   }
 
   .u-section-3 .u-text-3 {
-    margin-right: 232px;
+    margin-right: 261px;
   }
 
   .u-section-3 .u-text-4 {
@@ -489,7 +503,7 @@
   }
 
   .u-section-3 .u-text-3 {
-    margin-right: 183px;
+    margin-right: 196px;
   }
 
   .u-section-3 .u-text-4 {
@@ -586,16 +600,19 @@
 
   .u-section-3 .u-text-1 {
     font-size: 1.875rem;
+    margin-top: 35px;
+    margin-left: 89px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-top: -8px;
   }
 
   .u-section-3 .u-image-1 {
     width: 340px;
     height: 301px;
+    margin-top: -108px;
     margin-left: 0;
-  }
-
-  .u-section-3 .u-text-2 {
-    margin-top: -322px;
   }
 
   .u-section-3 .u-text-3 {
@@ -653,7 +670,7 @@
   .u-section-3 .u-text-17 {
     font-size: 1.875rem;
     margin-top: 61px;
-    margin-left: 77px;
+    margin-left: 85px;
   }
 
   .u-section-3 .u-text-18 {
@@ -667,7 +684,7 @@
   }
 
   .u-section-3 .u-text-19 {
-    margin-top: -178px;
+    margin-top: -206px;
     margin-left: 135px;
   }
 
@@ -678,6 +695,7 @@
 
   .u-section-3 .u-text-21 {
     font-size: 1.875rem;
+    margin-left: 82px;
   }
 
   .u-section-3 .u-image-6 {
@@ -687,7 +705,7 @@
   }
 
   .u-section-3 .u-text-23 {
-    margin-top: -218px;
+    margin-top: -246px;
     margin-left: 136px;
   }
 
